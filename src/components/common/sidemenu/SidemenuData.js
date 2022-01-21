@@ -1,30 +1,30 @@
 export const SidemenuData = [
   {
     title: 'About',
-    path: '/about'
+    path: '/personal-portfolio/about'
   },
   {
     title: 'Experience',
-    path: '/experience'
+    path: '/personal-portfolio/experience'
   },
   {
     title: 'Education',
-    path: '/education'
+    path: '/personal-portfolio/education'
   },
   {
     title: 'Skills',
-    path: '/skills'
+    path: '/personal-portfolio/skills'
   },
   {
     title: 'Certificates',
-    path: '/certificates'
+    path: '/personal-portfolio/certificates'
   },
   {
     title: 'Projects',
-    path: '/projects'
+    path: '/personal-portfolio/projects'
   },
   {
     title: 'Interests',
-    path: '/interests'
+    path: '/personal-portfolio/interests'
   },
 ];
