@@ -1,12 +1,6 @@
 import React from 'react';
 import "./Pagecontent.css";
-import About from './About';
-import Experience from './Experience';
-import Education from './Education';
-import Skills from './Skills';
-import Certificates from './Certifications';
-import Projects from './Projects';
-import Interests from './Interests';
+import { About, Experience, Education, Skills, Certificates, Projects, Interests } from "./index"
 
 function Pagecontent(){
     return(

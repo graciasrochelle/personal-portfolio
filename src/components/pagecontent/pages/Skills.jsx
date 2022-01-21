@@ -1,11 +1,11 @@
 import React from 'react';
-import "./Pagecontent.css";
-import Gopher from "./img/gopher.png";
-import Csharp from "./img/csharp.png";
-import Bamboo from "./img/bamboo.png";
-import k8 from "./img/k8.png";
-import Postgres from "./img/postgres.png";
-import Mysql from "./img/mysql.png";
+import "../Pagecontent.css";
+import Gopher from "../img/gopher.png";
+import Csharp from "../img/csharp.png";
+import Bamboo from "../img/bamboo.png";
+import k8 from "../img/k8.png";
+import Postgres from "../img/postgres.png";
+import Mysql from "../img/mysql.png";
 
 function Skills(){
     return(
