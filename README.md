@@ -27,5 +27,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 ## Reference sites 
 
 > https://www.smashingmagazine.com/2016/08/sghpa-single-page-app-hack-github-pages/
+
 > https://create-react-app.dev/docs/deployment/#github-pages
+
 > https://github.com/StartBootstrap/startbootstrap-resume
