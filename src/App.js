@@ -8,14 +8,14 @@ function App() {
       <Router>
         <Sidemenu />
         <Routes>
-          <Route path='/' exact element={<Pagecontent />} />
-          <Route path='/about' element={<About />} />
-          <Route path='/education' element={<Education />} />
-          <Route path='/experience' element={<Experience />} />
-          <Route path='/certificates' element={<Certificates />} />
-          <Route path='/skills' element={<Skills />}/>
-          <Route path='/interests' element={<Interests />} />
-          <Route path='/projects' element={<Projects />} />
+          <Route path='/personal-portfolio' exact element={<Pagecontent />} />
+          <Route path='/personal-portfolio/about' element={<About />} />
+          <Route path='/personal-portfolio/education' element={<Education />} />
+          <Route path='/personal-portfolio/experience' element={<Experience />} />
+          <Route path='/personal-portfolio/certificates' element={<Certificates />} />
+          <Route path='/personal-portfolio/skills' element={<Skills />}/>
+          <Route path='/personal-portfolio/interests' element={<Interests />} />
+          <Route path='/personal-portfolio/projects' element={<Projects />} />
         </Routes>
       </Router>
     </>
