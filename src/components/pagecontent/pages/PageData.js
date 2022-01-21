@@ -57,6 +57,14 @@ export const ProjectPageData = [
         url: "https://github.com/graciasrochelle/react-movie-app"
     },
     {
+        name: "GoLang RESTful API that accepts and persists contact information using in-memory or AWS RDS SQL database storage",
+        url: "https://github.com/graciasrochelle/TSACodingChallengeAPI"
+    },
+    {
+        name: "React Web Application that allows you to view and add contact information",
+        url: "https://github.com/graciasrochelle/TSACodingChallengeReactApp"
+    },
+    {
         name: "Machine Learning",
         url: "https://github.com/graciasrochelle/Machine-Learning"
     },
