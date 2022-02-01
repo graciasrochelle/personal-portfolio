@@ -110,7 +110,7 @@ export const ExperiencePageData = [
     {
         designation: "Software Engineer (Full time)",
         company: "Atlassian Pty Ltd., Sydney, Australia",
-        summary: "Backend java engineer working on decomposing permissions from the monolith into microservices.",
+        summary: "Backend java engineer working to externalisation permissions checking from the monolith and represent them in an external service, making permissions available for other services to consume without depending on the monolith. This will help other services to scale and be performant at scale. Also, involved in creating design documentation and maintaining existing area of code.",
         from: "Oct 2020",
         to: "Present",
         style: "mb-5"
